@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheetScraper", "SheetScraper.csproj", "{C17D5B16-4868-4A99-9953-BFCC91BB6363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C17D5B16-4868-4A99-9953-BFCC91BB6363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17D5B16-4868-4A99-9953-BFCC91BB6363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17D5B16-4868-4A99-9953-BFCC91BB6363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17D5B16-4868-4A99-9953-BFCC91BB6363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
